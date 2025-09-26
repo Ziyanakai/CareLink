@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CareLink: Personal Safety App",
+  "description": "A personal safety application that provides instant panic alerts, GPS location sharing, and SMS fallback notifications for people facing danger. This web-based prototype simulates the core features of the mobile app.",
+  "requestFramePermissions": []
+}
